@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Engine.Skeleton Name="BasehHeroModel_Skeleton" ExportPath="/Script/Engine.Skeleton'/Game/Characters/Mannequins/Meshes/Knight/BasehHeroModel_Skeleton.BasehHeroModel_Skeleton'"
+   Begin Object Class=/Script/Engine.AnimCurveMetaData Name="AnimCurveMetaData_0" ExportPath="/Script/Engine.AnimCurveMetaData'/Game/Characters/Mannequins/Meshes/Knight/BasehHeroModel_Skeleton.BasehHeroModel_Skeleton:AnimCurveMetaData_0'"
+   End Object
+   Begin Object Name="AnimCurveMetaData_0" ExportPath="/Script/Engine.AnimCurveMetaData'/Game/Characters/Mannequins/Meshes/Knight/BasehHeroModel_Skeleton.BasehHeroModel_Skeleton:AnimCurveMetaData_0'"
+   End Object
+   BoneTree(37)=()
+   PreviewSkeletalMesh="/Game/Characters/Mannequins/Meshes/Knight/BasehHeroModel.BasehHeroModel"
+   AssetUserData(0)="/Script/Engine.AnimCurveMetaData'AnimCurveMetaData_0'"
+End Object
