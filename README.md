@@ -436,13 +436,10 @@ First Playable
 Если вы заинтересованы в участии в разработке **Renaissance of Envell** в качестве Unreal Engine / Gameplay Programmer, свяжитесь с нашей командой:
 
 **Telegram:**
-[https://t.me/kali1os](https://t.me/kali1os)
+https://t.me/kali1os
 
 **Игра:** Renaissance of Envell
 **Движок:** Unreal Engine 5.7
-**GitHub:** приватный репозиторий
-
-Доступ к репозиторию может быть предоставлен потенциальным участникам после первичного знакомства с проектом.
 
 
 # 📜 Примечание
